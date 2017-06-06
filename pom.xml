@@ -13,6 +13,7 @@
     <modules>
         <module>bg-poc-admin-app</module>
         <module>bg-poc-service</module>
+        <module>bg-poc-service-client</module>
         <module>bg-poc-eureka</module>
     </modules>
 
